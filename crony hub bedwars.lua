@@ -1,3 +1,4 @@
+--dont pizdit moy script
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({Name = "BED WARS HUB", HidePremium = false,IntroText = "CRONY X", SaveConfig = true, ConfigFolder = "OrionTest"})
 OrionLib:MakeNotification({
